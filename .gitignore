@@ -1,2 +1,4 @@
 Add ignored files
 .ipynb_checkpoints/
+amer_sign2.png
+*.csv
